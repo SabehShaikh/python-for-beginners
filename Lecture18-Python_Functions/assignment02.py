@@ -3,3 +3,4 @@
 days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 
 print(list(map(lambda day: day.upper(), days)))
+
